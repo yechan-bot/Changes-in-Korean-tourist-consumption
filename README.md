@@ -39,6 +39,15 @@
 ![2](https://user-images.githubusercontent.com/62364849/124377941-c5442400-dce9-11eb-8417-743eabeb0e40.png)
 - 밑 버튼 클릭시 각각 그래프와 설명 출력
 
+### 2019년 2020년 일별 데이터 상관분석
+![3](https://user-images.githubusercontent.com/62364849/124377995-0b00ec80-dcea-11eb-917a-2939dc822cab.png)
+![4](https://user-images.githubusercontent.com/62364849/124377996-0c321980-dcea-11eb-8135-549b93c54a07.png)
+
+### 2021년 4월 이후 방문자 수 예측
+![5](https://user-images.githubusercontent.com/62364849/124377997-0d634680-dcea-11eb-8119-2cff47c48324.png)
+![6](https://user-images.githubusercontent.com/62364849/124377999-0dfbdd00-dcea-11eb-8b84-1220b961e854.png)
+![7](https://user-images.githubusercontent.com/62364849/124378000-0f2d0a00-dcea-11eb-875e-9a5149cba923.png)
+
 ## 검색 트래픽에 따른 한국 관광 증가 분석
 ## 관광지 타입 및 정보 제공 서비스
 ## 한국 음료 정보 제공 서비스
